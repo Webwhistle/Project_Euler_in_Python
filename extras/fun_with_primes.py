@@ -15,3 +15,5 @@ def pfactors(number):
         if number % i == 0:
             factors.append(i)
     return factors
+
+print(len(sieve(100000)))
