@@ -1,3 +1,4 @@
+#!python3
 """
 We use the function in the extras folder that lists all primes up to a given length.
 We also use the fact that the number of primes y is roughly equal x/log(x) where x is a number
